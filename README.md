@@ -50,7 +50,7 @@ files come from: `PteroMat`, `PteroLayer`, `Ptero Light`, `Ptero IK Joint`, `Pte
 `Ptero ParticleEvent`.
 
 **Author.** The importer's own error messages tell the user to "call **Beny**" when a file has an unsupported
-version, which points to *Beny* as the author/maintainer of the format and of the 3ds Max tools. The community
+version, which points to *Petr "Beny" Benýšek* as the author/maintainer of the format and of the 3ds Max tools. The community
 specification project [vc-spec](https://github.com/FlashX64/vc-spec) lists BES as *"BenyErikSolitude"*, which looks like
 a combination of developer nicknames. Neither source gives a full name, so none is stated here, and the name
 expansion is a community observation, not an official statement.
